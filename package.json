@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "passport application",
   "main": "app.js",
+
+  "engines": {
+    "node": "12.16.2"
+  },
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
